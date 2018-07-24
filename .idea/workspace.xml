@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e7eb674-9c2d-463d-b53e-f5871c92934b" name="Default" comment="" />
+    <list default="true" id="2e7eb674-9c2d-463d-b53e-f5871c92934b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,22 +17,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="homePage.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/homePage.controller.js">
+        <entry file="file://$PROJECT_DIR$/app/components/homePage/homePage.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="1386">
               <caret line="63" column="37" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="37" />
-              <folding>
-                <element signature="e#2363#2862#0" />
-                <element signature="e#2886#3619#0" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="registeredUsers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/registeredUsers/registeredUsers.html">
+        <entry file="file://$PROJECT_DIR$/app/components/registeredUsers/registeredUsers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="836">
               <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#1;n#!!top" expanded="true" />
@@ -42,9 +40,9 @@
         </entry>
       </file>
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/login.html">
+        <entry file="file://$PROJECT_DIR$/app/components/homePage/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="374">
               <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#md-content#0;n#!!top" expanded="true" />
@@ -55,9 +53,9 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js">
+        <entry file="file://$PROJECT_DIR$/server/modules/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-528">
+            <state relative-caret-position="1122">
               <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding>
                 <element signature="n#!!block;n#sendToken#0" />
@@ -68,36 +66,36 @@
         </entry>
       </file>
       <file leaf-file-name="categories.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/categories.js">
+        <entry file="file://$PROJECT_DIR$/server/modules/categories.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="330">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="attractions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js">
+        <entry file="file://$PROJECT_DIR$/server/modules/attractions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1342">
+            <state relative-caret-position="176">
               <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/users.js">
+        <entry file="file://$PROJECT_DIR$/server/modules/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="1232">
               <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.html">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="748">
               <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -107,12 +105,12 @@
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.css">
+        <entry file="file://$PROJECT_DIR$/app/index.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="index.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.controller.js">
+        <entry file="file://$PROJECT_DIR$/app/index.controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
@@ -164,7 +162,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../gitTripAdvisor" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -222,25 +220,25 @@
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/../gitTripAdvisor/package.json" />
+    <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../gitTripAdvisor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/../gitTripAdvisor/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1103" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -250,7 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,12 +308,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitTripAdvisor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -324,7 +322,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -353,7 +351,7 @@
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gitTripAdvisor/app/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gitTripAdvisor/app/index.html" />
-    <configuration name="‏‏server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../gitTripAdvisor/server/‏‏server.js" working-dir="$PROJECT_DIR$/../gitTripAdvisor/server" />
+    <configuration name="‏‏server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/‏‏server.js" working-dir="$PROJECT_DIR$/server" />
     <list>
       <item itemvalue="Node.js.‏‏server.js" />
       <item itemvalue="JavaScript Debug.index.html" />
@@ -386,7 +384,9 @@
       <workItem from="1529258482189" duration="296000" />
       <workItem from="1532157797114" duration="5579000" />
       <workItem from="1532172259180" duration="189000" />
-      <workItem from="1532235322722" duration="41613000" />
+      <workItem from="1532235322722" duration="41769000" />
+      <workItem from="1532450380560" duration="138000" />
+      <workItem from="1532450544914" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1528194922518</created>
@@ -423,32 +423,39 @@
       <option name="project" value="LOCAL" />
       <updated>1532449748616</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final commit">
+      <created>1532450174894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532450174894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226859000" />
+    <option name="totallyTimeSpent" value="227685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17564403" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49960968" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" visible="true" weight="0.19587629" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49960968" visible="true" weight="0.19587629" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48868072" weight="0.35910654" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960968" weight="0.3934708" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17564403" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960968" weight="0.3934708" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8833333" weight="0.32930845" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49960968" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -456,6 +463,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -473,130 +490,113 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/index.js</url>
           <line>51</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/index.js</url>
           <line>49</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.js</url>
           <line>7</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/index.js</url>
           <line>37</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/index.js</url>
           <line>115</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractions/attractions.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attractions/attractions.controller.js</url>
           <line>117</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractions/attractions.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attractions/attractions.controller.js</url>
           <line>113</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>32</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>22</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>30</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>6</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>72</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>16</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>72</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>64</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>36</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>46</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>38</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js</url>
+          <url>file://$PROJECT_DIR$/server/modules/attractions.js</url>
           <line>41</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="209" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>50</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>52</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js</url>
+          <url>file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js</url>
           <line>59</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="212" />
         </line-breakpoint>
       </breakpoints>
@@ -667,44 +667,44 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/registeredUsers/registeredUsers.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/registeredUsers/registeredUsers.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractionCard.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attractionCard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/forgetPassword.html">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/forgetPassword.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/homePage.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/homePage.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="25" lean-forward="true" selection-end-line="180" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.html" />
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/login.html">
+    <entry file="file://$PROJECT_DIR$/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.route.js" />
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.controller.js" />
+    <entry file="file://$PROJECT_DIR$/app/index.route.js" />
+    <entry file="file://$PROJECT_DIR$/app/index.controller.js" />
     <entry file="file://$USER_HOME$/Desktop/New folder (4)/app.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -714,14 +714,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/homePage/homePage.service.js" />
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/signUp.css">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/signUp.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
@@ -729,7 +729,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/attraction/attraction.js" />
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/package.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
@@ -737,53 +737,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/shared/toastService.js" />
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/DButils.js">
+    <entry file="file://$PROJECT_DIR$/server/DButils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/register.html">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1232">
           <caret line="123" column="50" selection-start-line="123" selection-start-column="50" selection-end-line="123" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#md-input-container#0;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#md-input-container#1;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#md-input-container#2;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#md-input-container#3;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#md-input-container#4;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#style#0;n#md-icon#0;n#md-input-container#5;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#md-input-container#6;n#div#0;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#0;n#md-content#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/shared/localStorage.service.js">
+    <entry file="file://$PROJECT_DIR$/app/components/shared/localStorage.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/shared/setToken.service.js">
+    <entry file="file://$PROJECT_DIR$/app/components/shared/setToken.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/attraction/attraction.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/forgetPassword.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attraction/attraction.css" />
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/forgetPassword.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="31" column="25" selection-start-line="31" selection-end-line="32" />
@@ -793,78 +776,70 @@
     <entry file="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js">
       <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/addReviewDialog.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attraction/addReviewDialog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractionCard.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attractionCard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/‏‏server.js">
+    <entry file="file://$PROJECT_DIR$/server/‏‏server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
           <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractions/attractions.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/attractions/attractions.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attractions/attractions.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attractions/attractions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="75" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="75" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#md-radio-group#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/favorite/favorite.html">
+    <entry file="file://$PROJECT_DIR$/app/components/favorite/favorite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/registeredUsers/registeredUsers.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/registeredUsers/registeredUsers.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="38" column="71" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/newReview.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/attraction/newReview.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="57" selection-start-column="41" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.html">
+    <entry file="file://$PROJECT_DIR$/app/components/attraction/attraction.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/attraction/attraction.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/attraction/attraction.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
@@ -876,62 +851,49 @@
         <state relative-caret-position="-1716" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/favorite/favorite.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/favorite/favorite.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/about/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/about/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/app/components/about/styles.css" />
+    <entry file="file://$PROJECT_DIR$/app/components/about/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="872" column="16083" selection-start-line="872" selection-start-column="16083" selection-end-line="872" selection-end-column="16083" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/about/about.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/about/about.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/photos/amit.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/about/about.html">
+    <entry file="file://$PROJECT_DIR$/app/assets/photos/amit.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/components/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1056">
           <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.route.js">
+    <entry file="file://$PROJECT_DIR$/app/index.route.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.css">
+    <entry file="file://$PROJECT_DIR$/app/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/registeredUsers/registeredUsers.html">
+    <entry file="file://$PROJECT_DIR$/app/components/registeredUsers/registeredUsers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="836">
           <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#!!top" expanded="true" />
@@ -941,9 +903,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/login.html">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="374">
           <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#md-content#0;n#!!top" expanded="true" />
@@ -952,27 +914,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/index.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/components/homePage/homePage.controller.js">
+    <entry file="file://$PROJECT_DIR$/app/components/homePage/homePage.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="1386">
           <caret line="63" column="37" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="37" />
-          <folding>
-            <element signature="e#2363#2862#0" />
-            <element signature="e#2886#3619#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/index.js">
+    <entry file="file://$PROJECT_DIR$/server/modules/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
+        <state relative-caret-position="1122">
           <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
           <folding>
             <element signature="n#!!block;n#sendToken#0" />
@@ -981,23 +939,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/attractions.js">
+    <entry file="file://$PROJECT_DIR$/server/modules/attractions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1342">
+        <state relative-caret-position="176">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/users.js">
+    <entry file="file://$PROJECT_DIR$/server/modules/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="1232">
           <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="748">
           <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1005,10 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/categories.js">
+    <entry file="file://$PROJECT_DIR$/server/modules/categories.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="330">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
