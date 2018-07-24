@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e7eb674-9c2d-463d-b53e-f5871c92934b" name="Default" comment="" />
+    <list default="true" id="2e7eb674-9c2d-463d-b53e-f5871c92934b" name="Default" comment="first commita">
+      <change beforePath="$PROJECT_DIR$/../gitTripAdvisor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gitTripAdvisor/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -70,8 +72,8 @@
       <file leaf-file-name="categories.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/categories.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -237,10 +239,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1931" />
-    <option name="y" value="139" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1943" />
-    <option name="height" value="1043" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -386,7 +388,7 @@
       <workItem from="1529258482189" duration="296000" />
       <workItem from="1532157797114" duration="5579000" />
       <workItem from="1532172259180" duration="189000" />
-      <workItem from="1532235322722" duration="40675000" />
+      <workItem from="1532235322722" duration="41095000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1528194922518</created>
@@ -409,18 +411,24 @@
       <option name="project" value="LOCAL" />
       <updated>1532448253070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commita">
+      <created>1532448756889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532448756889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225921000" />
+    <option name="totallyTimeSpent" value="226341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="143" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49960968" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49960968" weight="0.3298969" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48868072" weight="0.35910654" />
@@ -993,8 +1001,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../gitTripAdvisor/server/modules/categories.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
